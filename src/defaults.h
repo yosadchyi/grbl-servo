@@ -89,3 +89,7 @@
 #endif
 
 #endif
+
+#ifdef DEFAULTS_WASP_PLOTTER_01
+#include "defaults/defaults_wasp_plotter01.h"
+#endif
